@@ -1,0 +1,10 @@
+.CustomTable{
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 20px 60px 0 rgba(0, 0, 0, 0.4) !important;
+
+    th, 
+    td{
+        padding: 14px 20px;
+    }
+}
